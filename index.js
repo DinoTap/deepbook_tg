@@ -55,7 +55,7 @@ Enhanced browsing experience with AI assistance for crypto research.
 ———
 
 🌐 Quick Links:
-[Website](https://deepbook-browser.vercel.app/) | [Community](https://t.me/deepbook_community) | [Twitter](https://x.com/deepbook_browser) | [Documentation](https://deepbook-browser.vercel.app/docs)`,
+[Website](https://deepbookai.io/) | [Community](https://t.me/deepbook_community) | [Twitter](https://x.com/deepbook) `,
     parse_mode: 'Markdown',
     ...opts
   });
