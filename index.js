@@ -55,7 +55,7 @@ Enhanced browsing experience with AI assistance for crypto research.
 ———
 
 🌐 Quick Links:
-[Website](https://deepbookai.io/) | [Community](https://t.me/deepbook_community) | [Twitter](https://x.com/deepbook) `,
+[Website](https://deepbookai.io/) | [Community](https://t.me/deepbookai) | [Twitter](https://x.com/deepbook_ai) `,
     parse_mode: 'Markdown',
     ...opts
   });
